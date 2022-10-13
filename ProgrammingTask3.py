@@ -15,7 +15,7 @@ print()
 
 list1 = [1.2, 3.6, 5.0, 2.3, 10.19]
 c = 0
-for i in range(len(list1)):
+for i in list1:
     d = list1[c] * 100 % 100
     e = round(d, 2)
     f = e / 100
