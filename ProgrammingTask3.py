@@ -1,17 +1,4 @@
-a = 1.5
-b = a * 100
-c = b % 100
-d = 10.01
-e = d * 100
-f = e % 100
-print(b)
-print(c)
-print(e)
-print(f)
-g = c + f
-print(g)
 
-print()
 
 list1 = [1.2, 3.6, 5.17, 2.3, 10.19]
 list2 = []
